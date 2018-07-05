@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+
+committ the changes!
+second committ done.
